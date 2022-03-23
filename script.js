@@ -6,7 +6,7 @@ var h3 = document.querySelector("h3");
 var randomPicker1 = document.querySelector("#picker1");
 var randomPicker2 = document.querySelector("#picker2");
 
-console.log("hello");
+
 body.style.background = "linear-gradient(to right, " + color1.value + ", " + color2.value + ")";
 h3.innerHTML = body.style.background;
 
