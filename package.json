@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgenerater",
+  "version": "1.0.0",
+  "description": "here I have used javascript to add event listeners to some dom objects to create background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anant1818731024/BackgroundGenerater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anant1818731024/BackgroundGenerater/issues"
+  },
+  "homepage": "https://github.com/anant1818731024/BackgroundGenerater#readme"
+}
